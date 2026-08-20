@@ -1,0 +1,8 @@
+{
+  "employee_name": "Ram Thapa",
+  "employee_id": "EMP045",
+  "leave_days": 5,
+  "manager_approval": "approved",
+  "hr_approval": "pending",
+  "status": "pending"
+}
